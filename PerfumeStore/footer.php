@@ -22,7 +22,7 @@
 
         <div class="box">
             <h3>معلومات التواصل</h3>
-            <p> <i class="fas fa-phone"></i> 782861053 967+ </p>
+            <p> <i class="fas fa-phone"></i> 777777777 967+ </p>
             <p> <i class="fas fa-phone"></i> +111-222-3333 </p>
             <p> <i class="fas fa-envelope"></i> example@domain.com </p>
 
@@ -30,7 +30,7 @@
 
         <div class="box">
             <h3>تابعنا</h3>
-            <a href="https://www.instagram.com/mayofficial.u?igsh=a29yOTJqcjJ1b2Nw"><i class="fab fa-instagram"></i> instagram</a>
+            <a href="https://www.instagram.com"></i> instagram</a>
         </div>
     </div>
 
